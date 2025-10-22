@@ -17,22 +17,7 @@ This hybrid approach improves accuracy and ensures that only relevant text regio
 
 ## 📂 Project Structure
 
-Prescription_Recognition_System/
-│
-├── Datasets/
-│ ├── Character/
-│ │ ├── Char_Images/
-│ │ └── image_labels.csv
-│ │
-│ └── Words/
-│ ├── word_images/
-│ │ ├── word1/
-│ │ ├── word2/
-│ │ └── ...
-│ └── words_labels.csv
-│
-└── main.ipynb
-
+I am  handwritten Dataset format.
 
 ---
 
@@ -112,7 +97,8 @@ To develop an intelligent system capable of **accurately reading and digitizing 
 > **Output:** `"Paracetamol 500mg twice daily after meal"`
 
 Upload Sample image :
-![1](https://github.com/user-attachments/assets/f6cc5b1f-04a0-4e27-a780-73d3940d82e6)
+
+![1](https://github.com/user-attachments/assets/0dd7ea9d-9e2f-48f0-b5a0-8a88d8e40541)
 <img width="624" height="498" alt="9" src="https://github.com/user-attachments/assets/67456055-90c0-4840-b0de-f6da6780f8ad" />
 <img width="685" height="938" alt="29" src="https://github.com/user-attachments/assets/6b413593-e515-4576-af6e-32613c6c50bf" />
 
