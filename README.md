@@ -116,55 +116,7 @@ Result :
 
 Result Saving in TXT file :
 
-[Uploading prescription_result_20251021_005636PRESCRIPTION RECOGNITION RESULTS
-==================================================
-Image: 9.jpg
-Processed: 2025-10-21 00:56:36
-Processing time: 4.10 seconds
-==================================================
 
-C.O. Jones
-Pleasantville, OH 43320 25 El Caro Street
-Date Patient Name: March Q_caps 2009
-Address: Joseph Mc Intyre
-DOB: 12/ 26/1998
-Allergies: NKda
-Weight: 65 kg
-Q_caps Azithromycin 200 m19/ 'smL
-Q_caps Q_caps ML
-Day 2: 4.5 mL
-Dispense m3/ mL Solution) Q_caps Q_caps
-Refills:
-Co Jones, ARN?.txt…]()
-[Uploading PRESCRIPTION RECOGNITION RESULTS
-==================================================
-Image: 17.jpg
-Processed: 2025-10-21 01:25:38
-Processing time: 8.72 seconds
-==================================================
-
-Smile Designing Teeth Whitening THE CJHIT TUSK
-Dental Implants General Dentistry
-@O/whitetuskdental
-CLx ' Sachn LSansoae
-12h/22
-28/m
-Q_caps
-Tab - 6 25 n
-Aujnenturi
-Q_caps Q_caps
-Tal Enzzlrn
-Q_caps
-{Tab PanD 4 Q_caps
-Nafee Q_caps
-Q_caps
-Q_caps
-Adu: Hexiqel Turn Paun
-(essaqe
-Lweek
-Ph: +91 810811251I Web: www.thewhitetusk com Email: info@thewhitetusk comg prescription_result_20251021_012538.txt…]()
-
-[prescription_result_20251021_012538.txt](https://github.com/user-attachments/files/23056701/prescription_result_20251021_012538.txt)[prescription_result_20251021_005636.txt](https://github.com/user-attachments/files/23056682/prescription_result_20251021_005636.txt)#
 
 ---
 
